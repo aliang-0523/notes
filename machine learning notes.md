@@ -64,3 +64,8 @@
 
 - **梯度下降算法**：
 - ![gradient descent](9.jpg)
+
+## **神经网络**
+- ![neural network](10.jpg)
+
+- 激活函数 g(z)=1/（1+e^-z）
